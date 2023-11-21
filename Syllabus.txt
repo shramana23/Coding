@@ -1,0 +1,11 @@
+1. Dynamic Programing 
+2. Graph
+3. Tree
+4. Linked List 
+5. Binary Search 
+6. Sliding Window
+7. Stack
+8. Priority Queue
+9. Two pointers 
+10. Greedy
+11. Backtracking 
