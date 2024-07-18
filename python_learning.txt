@@ -1,0 +1,3 @@
+1. max(dt, key=dt.get) - will return the key that has max value 
+2. collections.deque
+3. 

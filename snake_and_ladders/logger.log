@@ -1,0 +1,1589 @@
+2024-05-18 13:49:23,463 - logger - INFO - Welcome to Snake and Ladder Game
+2024-05-18 13:49:23,463 - logger - INFO - Let's start the game :- )
+2024-05-18 13:49:23,463 - logger - INFO - ---------------------------------
+2024-05-18 13:49:23,499 - logger - INFO - The board structure is configured
+2024-05-18 13:49:23,499 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,500 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,500 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,500 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,500 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,501 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,501 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,501 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,501 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,501 - logger - INFO - 01 & G & S LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,501 - logger - INFO - ---------START GAME---------
+2024-05-18 13:49:23,502 - logger - INFO -  Gaurav rolled the dice --- [2, 3]
+2024-05-18 13:49:23,502 - logger - INFO - Gaurav scored 5 according to 'SUM' strategy
+2024-05-18 13:49:23,502 - logger - INFO - Gaurav moved from 1 to 6
+2024-05-18 13:49:23,502 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,503 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,503 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,503 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,504 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,504 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,504 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,504 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,504 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,504 - logger - INFO - 01 & S LB 03 04 ST ST & G 07 08 ST LB
+2024-05-18 13:49:23,504 - logger - INFO -  Sagar rolled the dice --- [6, 6]
+2024-05-18 13:49:23,504 - logger - INFO - Sagar scored 12 according to 'SUM' strategy
+2024-05-18 13:49:23,504 - logger - INFO - Sagar moved from 1 to 13
+2024-05-18 13:49:23,504 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,504 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,504 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,504 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,504 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,504 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,504 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,504 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,504 - logger - INFO - 11 12 13 & S 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,504 - logger - INFO - 01 LB 03 04 ST ST & G 07 08 ST LB
+2024-05-18 13:49:23,504 - logger - INFO -  Gaurav rolled the dice --- [3, 1]
+2024-05-18 13:49:23,504 - logger - INFO - Gaurav scored 4 according to 'SUM' strategy
+2024-05-18 13:49:23,504 - logger - INFO - Gaurav moved from 6 to 10
+2024-05-18 13:49:23,504 - logger - INFO - Yeay! Gaurav has climbed the ladder at 10! Moving from 10 to 32
+2024-05-18 13:49:23,510 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,510 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,510 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,510 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,511 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,511 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,511 - logger - INFO - 31 LT & G SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,511 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,511 - logger - INFO - 11 12 13 & S 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,511 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,512 - logger - INFO -  Sagar rolled the dice --- [5, 6]
+2024-05-18 13:49:23,512 - logger - INFO - Sagar scored 11 according to 'SUM' strategy
+2024-05-18 13:49:23,512 - logger - INFO - Sagar moved from 13 to 24
+2024-05-18 13:49:23,513 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,513 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,513 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,513 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,514 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,514 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,514 - logger - INFO - 31 LT & G SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,515 - logger - INFO - 21 22 23 24 & S 25 26 LB 28 29 30
+2024-05-18 13:49:23,515 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,516 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,516 - logger - INFO -  Gaurav rolled the dice --- [2, 1]
+2024-05-18 13:49:23,518 - logger - INFO - Gaurav scored 3 according to 'SUM' strategy
+2024-05-18 13:49:23,519 - logger - INFO - Gaurav moved from 32 to 35
+2024-05-18 13:49:23,520 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,520 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,521 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,521 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,521 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,521 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,521 - logger - INFO - 31 LT SH 34 35 & G 36 LT 38 39 40
+2024-05-18 13:49:23,522 - logger - INFO - 21 22 23 24 & S 25 26 LB 28 29 30
+2024-05-18 13:49:23,522 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,522 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,523 - logger - INFO -  Sagar rolled the dice --- [6, 1]
+2024-05-18 13:49:23,523 - logger - INFO - Sagar scored 7 according to 'SUM' strategy
+2024-05-18 13:49:23,523 - logger - INFO - Sagar moved from 24 to 31
+2024-05-18 13:49:23,524 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,524 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,524 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,524 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,524 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,525 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,525 - logger - INFO - 31 & S LT SH 34 35 & G 36 LT 38 39 40
+2024-05-18 13:49:23,525 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,525 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,525 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,526 - logger - INFO -  Gaurav rolled the dice --- [5, 6]
+2024-05-18 13:49:23,526 - logger - INFO - Gaurav scored 11 according to 'SUM' strategy
+2024-05-18 13:49:23,526 - logger - INFO - Gaurav moved from 35 to 46
+2024-05-18 13:49:23,527 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,527 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,527 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,527 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,527 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,528 - logger - INFO - SH 42 43 44 45 LT & G 47 48 SH 50
+2024-05-18 13:49:23,528 - logger - INFO - 31 & S LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,528 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,528 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,528 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,529 - logger - INFO -  Sagar rolled the dice --- [3, 6]
+2024-05-18 13:49:23,529 - logger - INFO - Sagar scored 9 according to 'SUM' strategy
+2024-05-18 13:49:23,529 - logger - INFO - Sagar moved from 31 to 40
+2024-05-18 13:49:23,530 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,531 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,531 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,531 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,531 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,532 - logger - INFO - SH 42 43 44 45 LT & G 47 48 SH 50
+2024-05-18 13:49:23,532 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40 & S
+2024-05-18 13:49:23,532 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,533 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,533 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,534 - logger - INFO -  Gaurav rolled the dice --- [6, 5]
+2024-05-18 13:49:23,534 - logger - INFO - Gaurav scored 11 according to 'SUM' strategy
+2024-05-18 13:49:23,535 - logger - INFO - Gaurav moved from 46 to 57
+2024-05-18 13:49:23,536 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,536 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,537 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,537 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,538 - logger - INFO - LB 52 ST 54 55 SH 57 & G 58 59 60
+2024-05-18 13:49:23,539 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,539 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40 & S
+2024-05-18 13:49:23,539 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,539 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,539 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,539 - logger - INFO -  Sagar rolled the dice --- [3, 3]
+2024-05-18 13:49:23,544 - logger - INFO - Sagar scored 6 according to 'SUM' strategy
+2024-05-18 13:49:23,544 - logger - INFO - Sagar moved from 40 to 46
+2024-05-18 13:49:23,545 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,545 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,546 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,547 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,547 - logger - INFO - LB 52 ST 54 55 SH 57 & G 58 59 60
+2024-05-18 13:49:23,547 - logger - INFO - SH 42 43 44 45 LT & S 47 48 SH 50
+2024-05-18 13:49:23,548 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,548 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,551 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,551 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,552 - logger - INFO -  Gaurav rolled the dice --- [2, 1]
+2024-05-18 13:49:23,552 - logger - INFO - Gaurav scored 3 according to 'SUM' strategy
+2024-05-18 13:49:23,553 - logger - INFO - Gaurav moved from 57 to 60
+2024-05-18 13:49:23,554 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,554 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,554 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,554 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,555 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60 & G
+2024-05-18 13:49:23,555 - logger - INFO - SH 42 43 44 45 LT & S 47 48 SH 50
+2024-05-18 13:49:23,555 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,555 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,555 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,555 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,555 - logger - INFO -  Sagar rolled the dice --- [1, 1]
+2024-05-18 13:49:23,555 - logger - INFO - Sagar scored 2 according to 'SUM' strategy
+2024-05-18 13:49:23,555 - logger - INFO - Sagar moved from 46 to 48
+2024-05-18 13:49:23,555 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,555 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,555 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,555 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,555 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60 & G
+2024-05-18 13:49:23,555 - logger - INFO - SH 42 43 44 45 LT 47 48 & S SH 50
+2024-05-18 13:49:23,555 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,555 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,555 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,555 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,561 - logger - INFO -  Gaurav rolled the dice --- [3, 6]
+2024-05-18 13:49:23,561 - logger - INFO - Gaurav scored 9 according to 'SUM' strategy
+2024-05-18 13:49:23,561 - logger - INFO - Gaurav moved from 60 to 69
+2024-05-18 13:49:23,562 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,562 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,562 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,562 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 & G 70
+2024-05-18 13:49:23,562 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,562 - logger - INFO - SH 42 43 44 45 LT 47 48 & S SH 50
+2024-05-18 13:49:23,564 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,564 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,564 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,565 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,565 - logger - INFO -  Sagar rolled the dice --- [6, 3]
+2024-05-18 13:49:23,565 - logger - INFO - Sagar scored 9 according to 'SUM' strategy
+2024-05-18 13:49:23,565 - logger - INFO - Sagar moved from 48 to 57
+2024-05-18 13:49:23,565 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,565 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,565 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,565 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 & G 70
+2024-05-18 13:49:23,565 - logger - INFO - LB 52 ST 54 55 SH 57 & S 58 59 60
+2024-05-18 13:49:23,565 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,565 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,565 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,565 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,565 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,565 - logger - INFO -  Gaurav rolled the dice --- [3, 6]
+2024-05-18 13:49:23,565 - logger - INFO - Gaurav scored 9 according to 'SUM' strategy
+2024-05-18 13:49:23,565 - logger - INFO - Gaurav moved from 69 to 78
+2024-05-18 13:49:23,571 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,571 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,571 - logger - INFO - LB 72 ST 74 ST 76 77 78 & G LT 80
+2024-05-18 13:49:23,571 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,572 - logger - INFO - LB 52 ST 54 55 SH 57 & S 58 59 60
+2024-05-18 13:49:23,572 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,572 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,572 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,572 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,572 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,573 - logger - INFO -  Sagar rolled the dice --- [2, 5]
+2024-05-18 13:49:23,573 - logger - INFO - Sagar scored 7 according to 'SUM' strategy
+2024-05-18 13:49:23,573 - logger - INFO - Sagar moved from 57 to 64
+2024-05-18 13:49:23,573 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,574 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,574 - logger - INFO - LB 72 ST 74 ST 76 77 78 & G LT 80
+2024-05-18 13:49:23,574 - logger - INFO - LB SH 63 ST & S LB 66 67 LT 69 70
+2024-05-18 13:49:23,574 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,574 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,575 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,575 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,575 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,575 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,575 - logger - INFO -  Gaurav rolled the dice --- [4, 1]
+2024-05-18 13:49:23,575 - logger - INFO - Gaurav scored 5 according to 'SUM' strategy
+2024-05-18 13:49:23,575 - logger - INFO - Gaurav moved from 78 to 83
+2024-05-18 13:49:23,577 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,577 - logger - INFO - LB 82 83 & G LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,577 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,577 - logger - INFO - LB SH 63 ST & S LB 66 67 LT 69 70
+2024-05-18 13:49:23,577 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,577 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,578 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,578 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,578 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,578 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,578 - logger - INFO -  Sagar rolled the dice --- [3, 3]
+2024-05-18 13:49:23,579 - logger - INFO - Sagar scored 6 according to 'SUM' strategy
+2024-05-18 13:49:23,579 - logger - INFO - Sagar moved from 64 to 70
+2024-05-18 13:49:23,579 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,580 - logger - INFO - LB 82 83 & G LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,580 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,580 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70 & S
+2024-05-18 13:49:23,580 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,581 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,581 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,581 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,582 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,582 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,583 - logger - INFO -  Gaurav rolled the dice --- [6, 2]
+2024-05-18 13:49:23,583 - logger - INFO - Gaurav scored 8 according to 'SUM' strategy
+2024-05-18 13:49:23,583 - logger - INFO - Gaurav moved from 83 to 91
+2024-05-18 13:49:23,583 - logger - INFO - LT & G 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,583 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,583 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:49:23,585 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70 & S
+2024-05-18 13:49:23,586 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,587 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,587 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,587 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,587 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,587 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,588 - logger - INFO -  Sagar rolled the dice --- [1, 3]
+2024-05-18 13:49:23,588 - logger - INFO - Sagar scored 4 according to 'SUM' strategy
+2024-05-18 13:49:23,588 - logger - INFO - Sagar moved from 70 to 74
+2024-05-18 13:49:23,589 - logger - INFO - LT & G 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:49:23,589 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,589 - logger - INFO - LB 72 ST 74 & S ST 76 77 78 LT 80
+2024-05-18 13:49:23,589 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,590 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,590 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,591 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,591 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,591 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,591 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,592 - logger - INFO -  Gaurav rolled the dice --- [2, 1]
+2024-05-18 13:49:23,592 - logger - INFO - Gaurav scored 3 according to 'SUM' strategy
+2024-05-18 13:49:23,592 - logger - INFO - Gaurav moved from 91 to 94
+2024-05-18 13:49:23,592 - logger - INFO - LT 92 SH 94 & G SH 96 97 SH 99 LT
+2024-05-18 13:49:23,592 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,592 - logger - INFO - LB 72 ST 74 & S ST 76 77 78 LT 80
+2024-05-18 13:49:23,592 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,592 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,592 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,592 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,592 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,592 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,592 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,592 - logger - INFO -  Sagar rolled the dice --- [1, 2]
+2024-05-18 13:49:23,592 - logger - INFO - Sagar scored 3 according to 'SUM' strategy
+2024-05-18 13:49:23,592 - logger - INFO - Sagar moved from 74 to 77
+2024-05-18 13:49:23,596 - logger - INFO - LT 92 SH 94 & G SH 96 97 SH 99 LT
+2024-05-18 13:49:23,596 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,596 - logger - INFO - LB 72 ST 74 ST 76 77 & S 78 LT 80
+2024-05-18 13:49:23,596 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,597 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,597 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,597 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,597 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,598 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,598 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,598 - logger - INFO -  Gaurav rolled the dice --- [4, 2]
+2024-05-18 13:49:23,598 - logger - INFO - Gaurav scored 6 according to 'SUM' strategy
+2024-05-18 13:49:23,599 - logger - INFO - Gaurav moved from 94 to 100
+2024-05-18 13:49:23,600 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT & G
+2024-05-18 13:49:23,600 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:49:23,600 - logger - INFO - LB 72 ST 74 ST 76 77 & S 78 LT 80
+2024-05-18 13:49:23,600 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:49:23,600 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:49:23,600 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:49:23,600 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:49:23,600 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:49:23,600 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:49:23,600 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:49:23,600 - logger - INFO - Gaurav won the game!
+2024-05-18 13:49:23,600 - logger - INFO - ---------END GAME---------
+2024-05-18 13:51:43,043 - logger - INFO - Welcome to Snake and Ladder Game
+2024-05-18 13:51:43,043 - logger - INFO - Let's start the game :- )
+2024-05-18 13:51:43,059 - logger - INFO - ---------------------------------
+2024-05-18 13:51:43,059 - logger - INFO - The board structure is configured
+2024-05-18 13:51:43,059 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,059 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,074 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,074 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,074 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,075 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,075 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,076 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,076 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,076 - logger - INFO - 01 & S & G & S LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,077 - logger - INFO - ---------START GAME---------
+2024-05-18 13:51:43,077 - logger - INFO -  Shramana rolled the dice --- [3, 1]
+2024-05-18 13:51:43,077 - logger - INFO - Shramana scored 3 according to 'MAX' strategy
+2024-05-18 13:51:43,077 - logger - INFO - Shramana moved from 1 to 4
+2024-05-18 13:51:43,077 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,079 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,079 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,080 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,080 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,080 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,080 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,081 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,081 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,082 - logger - INFO - 01 & G & S LB 03 04 & S ST ST 07 08 ST LB
+2024-05-18 13:51:43,082 - logger - INFO -  Gaurav rolled the dice --- [5, 3]
+2024-05-18 13:51:43,083 - logger - INFO - Gaurav scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,083 - logger - INFO - Gaurav moved from 1 to 6
+2024-05-18 13:51:43,084 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,084 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,085 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,085 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,085 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,085 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,086 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,086 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,086 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,086 - logger - INFO - 01 & S LB 03 04 & S ST ST & G 07 08 ST LB
+2024-05-18 13:51:43,086 - logger - INFO -  Sagar rolled the dice --- [5, 3]
+2024-05-18 13:51:43,086 - logger - INFO - Sagar scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,087 - logger - INFO - Sagar moved from 1 to 6
+2024-05-18 13:51:43,088 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,088 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,088 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,088 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,089 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,089 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,089 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,089 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,089 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,089 - logger - INFO - 01 LB 03 04 & S ST ST & G & S 07 08 ST LB
+2024-05-18 13:51:43,089 - logger - INFO -  Shramana rolled the dice --- [1, 6]
+2024-05-18 13:51:43,089 - logger - INFO - Shramana scored 6 according to 'MAX' strategy
+2024-05-18 13:51:43,089 - logger - INFO - Shramana moved from 4 to 10
+2024-05-18 13:51:43,089 - logger - INFO - Yeay! Shramana has climbed the ladder at 10! Moving from 10 to 32
+2024-05-18 13:51:43,089 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,089 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,089 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,089 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,089 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,089 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,089 - logger - INFO - 31 LT & S SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,093 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,093 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,094 - logger - INFO - 01 LB 03 04 ST ST & G & S 07 08 ST LB
+2024-05-18 13:51:43,094 - logger - INFO -  Gaurav rolled the dice --- [2, 4]
+2024-05-18 13:51:43,094 - logger - INFO - Gaurav scored 4 according to 'MAX' strategy
+2024-05-18 13:51:43,095 - logger - INFO - Gaurav moved from 6 to 10
+2024-05-18 13:51:43,095 - logger - INFO - Yeay! Gaurav has climbed the ladder at 10! Moving from 10 to 32
+2024-05-18 13:51:43,096 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,096 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,097 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,098 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,098 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,098 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,098 - logger - INFO - 31 LT & S & G SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,098 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,098 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,098 - logger - INFO - 01 LB 03 04 ST ST & S 07 08 ST LB
+2024-05-18 13:51:43,098 - logger - INFO -  Sagar rolled the dice --- [1, 2]
+2024-05-18 13:51:43,098 - logger - INFO - Sagar scored 2 according to 'MAX' strategy
+2024-05-18 13:51:43,098 - logger - INFO - Sagar moved from 6 to 8
+2024-05-18 13:51:43,098 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,098 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,103 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,103 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,103 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,103 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,104 - logger - INFO - 31 LT & S & G SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,104 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,104 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,104 - logger - INFO - 01 LB 03 04 ST ST 07 08 & S ST LB
+2024-05-18 13:51:43,105 - logger - INFO -  Shramana rolled the dice --- [1, 4]
+2024-05-18 13:51:43,105 - logger - INFO - Shramana scored 4 according to 'MAX' strategy
+2024-05-18 13:51:43,105 - logger - INFO - Shramana moved from 32 to 36
+2024-05-18 13:51:43,106 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,106 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,106 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,107 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,107 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,107 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,107 - logger - INFO - 31 LT & G SH 34 35 36 & S LT 38 39 40
+2024-05-18 13:51:43,107 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,107 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,107 - logger - INFO - 01 LB 03 04 ST ST 07 08 & S ST LB
+2024-05-18 13:51:43,107 - logger - INFO -  Gaurav rolled the dice --- [1, 1]
+2024-05-18 13:51:43,107 - logger - INFO - Gaurav scored 1 according to 'MAX' strategy
+2024-05-18 13:51:43,107 - logger - INFO - Gaurav moved from 32 to 33
+2024-05-18 13:51:43,107 - logger - INFO - Oops! Gaurav has bitten by snake at 33! Moving from 33 to 6
+2024-05-18 13:51:43,107 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,107 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,107 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,107 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,107 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,107 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,107 - logger - INFO - 31 LT SH 34 35 36 & S LT 38 39 40
+2024-05-18 13:51:43,112 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,112 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,113 - logger - INFO - 01 LB 03 04 ST ST & G 07 08 & S ST LB
+2024-05-18 13:51:43,113 - logger - INFO -  Sagar rolled the dice --- [4, 2]
+2024-05-18 13:51:43,113 - logger - INFO - Sagar scored 4 according to 'MAX' strategy
+2024-05-18 13:51:43,114 - logger - INFO - Sagar moved from 8 to 12
+2024-05-18 13:51:43,115 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,115 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,115 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,115 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,115 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,115 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,115 - logger - INFO - 31 LT SH 34 35 36 & S LT 38 39 40
+2024-05-18 13:51:43,115 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,115 - logger - INFO - 11 12 & S 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,115 - logger - INFO - 01 LB 03 04 ST ST & G 07 08 ST LB
+2024-05-18 13:51:43,119 - logger - INFO -  Shramana rolled the dice --- [1, 5]
+2024-05-18 13:51:43,119 - logger - INFO - Shramana scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,119 - logger - INFO - Shramana moved from 36 to 41
+2024-05-18 13:51:43,119 - logger - INFO - Oops! Shramana has bitten by snake at 41! Moving from 41 to 20
+2024-05-18 13:51:43,120 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,120 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,120 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,120 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,121 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,121 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,121 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,121 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,121 - logger - INFO - 11 12 & S 13 14 15 ST 17 18 19 ST & S
+2024-05-18 13:51:43,121 - logger - INFO - 01 LB 03 04 ST ST & G 07 08 ST LB
+2024-05-18 13:51:43,121 - logger - INFO -  Gaurav rolled the dice --- [2, 6]
+2024-05-18 13:51:43,121 - logger - INFO - Gaurav scored 6 according to 'MAX' strategy
+2024-05-18 13:51:43,121 - logger - INFO - Gaurav moved from 6 to 12
+2024-05-18 13:51:43,123 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,123 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,123 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,123 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,124 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,124 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,124 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,124 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,124 - logger - INFO - 11 12 & G & S 13 14 15 ST 17 18 19 ST & S
+2024-05-18 13:51:43,124 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,125 - logger - INFO -  Sagar rolled the dice --- [1, 2]
+2024-05-18 13:51:43,125 - logger - INFO - Sagar scored 2 according to 'MAX' strategy
+2024-05-18 13:51:43,125 - logger - INFO - Sagar moved from 12 to 14
+2024-05-18 13:51:43,126 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,126 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,126 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,126 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,126 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,127 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,127 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,127 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,127 - logger - INFO - 11 12 & G 13 14 & S 15 ST 17 18 19 ST & S
+2024-05-18 13:51:43,127 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,127 - logger - INFO -  Shramana rolled the dice --- [5, 3]
+2024-05-18 13:51:43,127 - logger - INFO - Shramana scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,127 - logger - INFO - Shramana moved from 20 to 25
+2024-05-18 13:51:43,130 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,131 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,131 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,131 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,131 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,131 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,131 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,131 - logger - INFO - 21 22 23 24 25 & S 26 LB 28 29 30
+2024-05-18 13:51:43,131 - logger - INFO - 11 12 & G 13 14 & S 15 ST 17 18 19 ST
+2024-05-18 13:51:43,133 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,133 - logger - INFO -  Gaurav rolled the dice --- [5, 4]
+2024-05-18 13:51:43,133 - logger - INFO - Gaurav scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,134 - logger - INFO - Gaurav moved from 12 to 17
+2024-05-18 13:51:43,135 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,135 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,135 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,135 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,135 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,135 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,135 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,137 - logger - INFO - 21 22 23 24 25 & S 26 LB 28 29 30
+2024-05-18 13:51:43,137 - logger - INFO - 11 12 13 14 & S 15 ST 17 & G 18 19 ST
+2024-05-18 13:51:43,137 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,137 - logger - INFO -  Sagar rolled the dice --- [3, 2]
+2024-05-18 13:51:43,138 - logger - INFO - Sagar scored 3 according to 'MAX' strategy
+2024-05-18 13:51:43,138 - logger - INFO - Sagar moved from 14 to 17
+2024-05-18 13:51:43,138 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,139 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,139 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,139 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,139 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,139 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,139 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,140 - logger - INFO - 21 22 23 24 25 & S 26 LB 28 29 30
+2024-05-18 13:51:43,140 - logger - INFO - 11 12 13 14 15 ST 17 & G & S 18 19 ST
+2024-05-18 13:51:43,140 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,140 - logger - INFO -  Shramana rolled the dice --- [5, 1]
+2024-05-18 13:51:43,140 - logger - INFO - Shramana scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,140 - logger - INFO - Shramana moved from 25 to 30
+2024-05-18 13:51:43,140 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,140 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,140 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,140 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,142 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,142 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,142 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,142 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30 & S
+2024-05-18 13:51:43,142 - logger - INFO - 11 12 13 14 15 ST 17 & G & S 18 19 ST
+2024-05-18 13:51:43,142 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,143 - logger - INFO -  Gaurav rolled the dice --- [3, 2]
+2024-05-18 13:51:43,143 - logger - INFO - Gaurav scored 3 according to 'MAX' strategy
+2024-05-18 13:51:43,143 - logger - INFO - Gaurav moved from 17 to 20
+2024-05-18 13:51:43,144 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,144 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,144 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,144 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,144 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,145 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,145 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,145 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30 & S
+2024-05-18 13:51:43,145 - logger - INFO - 11 12 13 14 15 ST 17 & S 18 19 ST & G
+2024-05-18 13:51:43,146 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,146 - logger - INFO -  Sagar rolled the dice --- [6, 2]
+2024-05-18 13:51:43,147 - logger - INFO - Sagar scored 6 according to 'MAX' strategy
+2024-05-18 13:51:43,147 - logger - INFO - Sagar moved from 17 to 23
+2024-05-18 13:51:43,147 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,147 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,147 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,147 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,147 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,147 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,147 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,147 - logger - INFO - 21 22 23 & S 24 25 26 LB 28 29 30 & S
+2024-05-18 13:51:43,147 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST & G
+2024-05-18 13:51:43,147 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,147 - logger - INFO -  Shramana rolled the dice --- [1, 1]
+2024-05-18 13:51:43,147 - logger - INFO - Shramana scored 1 according to 'MAX' strategy
+2024-05-18 13:51:43,147 - logger - INFO - Shramana moved from 30 to 31
+2024-05-18 13:51:43,147 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,147 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,153 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,153 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,153 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,153 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,153 - logger - INFO - 31 & S LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,153 - logger - INFO - 21 22 23 & S 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,153 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST & G
+2024-05-18 13:51:43,153 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,154 - logger - INFO -  Gaurav rolled the dice --- [4, 3]
+2024-05-18 13:51:43,154 - logger - INFO - Gaurav scored 4 according to 'MAX' strategy
+2024-05-18 13:51:43,154 - logger - INFO - Gaurav moved from 20 to 24
+2024-05-18 13:51:43,154 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,155 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,155 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,155 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,155 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,155 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,155 - logger - INFO - 31 & S LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,156 - logger - INFO - 21 22 23 & S 24 & G 25 26 LB 28 29 30
+2024-05-18 13:51:43,156 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,156 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,156 - logger - INFO -  Sagar rolled the dice --- [4, 5]
+2024-05-18 13:51:43,157 - logger - INFO - Sagar scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,157 - logger - INFO - Sagar moved from 23 to 28
+2024-05-18 13:51:43,157 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,157 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,157 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,157 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,157 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,157 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,157 - logger - INFO - 31 & S LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,157 - logger - INFO - 21 22 23 24 & G 25 26 LB 28 & S 29 30
+2024-05-18 13:51:43,157 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,157 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,157 - logger - INFO -  Shramana rolled the dice --- [3, 6]
+2024-05-18 13:51:43,157 - logger - INFO - Shramana scored 6 according to 'MAX' strategy
+2024-05-18 13:51:43,157 - logger - INFO - Shramana moved from 31 to 37
+2024-05-18 13:51:43,157 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,157 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,157 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,157 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,157 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,157 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,162 - logger - INFO - 31 LT SH 34 35 36 LT & S 38 39 40
+2024-05-18 13:51:43,162 - logger - INFO - 21 22 23 24 & G 25 26 LB 28 & S 29 30
+2024-05-18 13:51:43,162 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,163 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,163 - logger - INFO -  Gaurav rolled the dice --- [1, 1]
+2024-05-18 13:51:43,163 - logger - INFO - Gaurav scored 1 according to 'MAX' strategy
+2024-05-18 13:51:43,163 - logger - INFO - Gaurav moved from 24 to 25
+2024-05-18 13:51:43,165 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,165 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,165 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,165 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,165 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,166 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,166 - logger - INFO - 31 LT SH 34 35 36 LT & S 38 39 40
+2024-05-18 13:51:43,166 - logger - INFO - 21 22 23 24 25 & G 26 LB 28 & S 29 30
+2024-05-18 13:51:43,166 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,166 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,166 - logger - INFO -  Sagar rolled the dice --- [6, 4]
+2024-05-18 13:51:43,167 - logger - INFO - Sagar scored 6 according to 'MAX' strategy
+2024-05-18 13:51:43,167 - logger - INFO - Sagar moved from 28 to 34
+2024-05-18 13:51:43,168 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,168 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,168 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,168 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,168 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,169 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,169 - logger - INFO - 31 LT SH 34 & S 35 36 LT & S 38 39 40
+2024-05-18 13:51:43,169 - logger - INFO - 21 22 23 24 25 & G 26 LB 28 29 30
+2024-05-18 13:51:43,169 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,169 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,169 - logger - INFO -  Shramana rolled the dice --- [5, 4]
+2024-05-18 13:51:43,170 - logger - INFO - Shramana scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,170 - logger - INFO - Shramana moved from 37 to 42
+2024-05-18 13:51:43,170 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,170 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,170 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,170 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,170 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,172 - logger - INFO - SH 42 & S 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,172 - logger - INFO - 31 LT SH 34 & S 35 36 LT 38 39 40
+2024-05-18 13:51:43,172 - logger - INFO - 21 22 23 24 25 & G 26 LB 28 29 30
+2024-05-18 13:51:43,172 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,172 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,172 - logger - INFO -  Gaurav rolled the dice --- [3, 3]
+2024-05-18 13:51:43,173 - logger - INFO - Gaurav scored 3 according to 'MAX' strategy
+2024-05-18 13:51:43,173 - logger - INFO - Gaurav moved from 25 to 28
+2024-05-18 13:51:43,173 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,173 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,173 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,173 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,175 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,175 - logger - INFO - SH 42 & S 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,175 - logger - INFO - 31 LT SH 34 & S 35 36 LT 38 39 40
+2024-05-18 13:51:43,175 - logger - INFO - 21 22 23 24 25 26 LB 28 & G 29 30
+2024-05-18 13:51:43,175 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,175 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,176 - logger - INFO -  Sagar rolled the dice --- [4, 6]
+2024-05-18 13:51:43,176 - logger - INFO - Sagar scored 6 according to 'MAX' strategy
+2024-05-18 13:51:43,176 - logger - INFO - Sagar moved from 34 to 40
+2024-05-18 13:51:43,176 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,177 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,177 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,177 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,177 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,178 - logger - INFO - SH 42 & S 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,178 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40 & S
+2024-05-18 13:51:43,178 - logger - INFO - 21 22 23 24 25 26 LB 28 & G 29 30
+2024-05-18 13:51:43,178 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,179 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,179 - logger - INFO -  Shramana rolled the dice --- [1, 6]
+2024-05-18 13:51:43,179 - logger - INFO - Shramana scored 6 according to 'MAX' strategy
+2024-05-18 13:51:43,180 - logger - INFO - Shramana moved from 42 to 48
+2024-05-18 13:51:43,181 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,181 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,181 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,182 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,182 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,182 - logger - INFO - SH 42 43 44 45 LT 47 48 & S SH 50
+2024-05-18 13:51:43,182 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40 & S
+2024-05-18 13:51:43,182 - logger - INFO - 21 22 23 24 25 26 LB 28 & G 29 30
+2024-05-18 13:51:43,182 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,184 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,185 - logger - INFO -  Gaurav rolled the dice --- [6, 5]
+2024-05-18 13:51:43,186 - logger - INFO - Gaurav scored 6 according to 'MAX' strategy
+2024-05-18 13:51:43,186 - logger - INFO - Gaurav moved from 28 to 34
+2024-05-18 13:51:43,186 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,186 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,186 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,186 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,186 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,186 - logger - INFO - SH 42 43 44 45 LT 47 48 & S SH 50
+2024-05-18 13:51:43,186 - logger - INFO - 31 LT SH 34 & G 35 36 LT 38 39 40 & S
+2024-05-18 13:51:43,188 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,188 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,188 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,188 - logger - INFO -  Sagar rolled the dice --- [5, 2]
+2024-05-18 13:51:43,188 - logger - INFO - Sagar scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,188 - logger - INFO - Sagar moved from 40 to 45
+2024-05-18 13:51:43,189 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,189 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,189 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,190 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,190 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,190 - logger - INFO - SH 42 43 44 45 & S LT 47 48 & S SH 50
+2024-05-18 13:51:43,190 - logger - INFO - 31 LT SH 34 & G 35 36 LT 38 39 40
+2024-05-18 13:51:43,190 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,191 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,191 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,191 - logger - INFO -  Shramana rolled the dice --- [4, 3]
+2024-05-18 13:51:43,191 - logger - INFO - Shramana scored 4 according to 'MAX' strategy
+2024-05-18 13:51:43,191 - logger - INFO - Shramana moved from 48 to 52
+2024-05-18 13:51:43,192 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,192 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,192 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,192 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,192 - logger - INFO - LB 52 & S ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,192 - logger - INFO - SH 42 43 44 45 & S LT 47 48 SH 50
+2024-05-18 13:51:43,192 - logger - INFO - 31 LT SH 34 & G 35 36 LT 38 39 40
+2024-05-18 13:51:43,192 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,192 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,192 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,192 - logger - INFO -  Gaurav rolled the dice --- [1, 5]
+2024-05-18 13:51:43,195 - logger - INFO - Gaurav scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,195 - logger - INFO - Gaurav moved from 34 to 39
+2024-05-18 13:51:43,196 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,196 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,197 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,198 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,198 - logger - INFO - LB 52 & S ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,198 - logger - INFO - SH 42 43 44 45 & S LT 47 48 SH 50
+2024-05-18 13:51:43,199 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 & G 40
+2024-05-18 13:51:43,199 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,199 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,199 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,200 - logger - INFO -  Sagar rolled the dice --- [6, 2]
+2024-05-18 13:51:43,200 - logger - INFO - Sagar scored 6 according to 'MAX' strategy
+2024-05-18 13:51:43,200 - logger - INFO - Sagar moved from 45 to 51
+2024-05-18 13:51:43,200 - logger - INFO - Yeay! Sagar has climbed the ladder at 51! Moving from 51 to 68
+2024-05-18 13:51:43,201 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,201 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,201 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,201 - logger - INFO - LB SH 63 ST LB 66 67 LT & S 69 70
+2024-05-18 13:51:43,202 - logger - INFO - LB 52 & S ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,202 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,203 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 & G 40
+2024-05-18 13:51:43,203 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,203 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,203 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,203 - logger - INFO -  Shramana rolled the dice --- [5, 6]
+2024-05-18 13:51:43,204 - logger - INFO - Shramana scored 6 according to 'MAX' strategy
+2024-05-18 13:51:43,204 - logger - INFO - Shramana moved from 52 to 58
+2024-05-18 13:51:43,204 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,204 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,204 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,204 - logger - INFO - LB SH 63 ST LB 66 67 LT & S 69 70
+2024-05-18 13:51:43,204 - logger - INFO - LB 52 ST 54 55 SH 57 58 & S 59 60
+2024-05-18 13:51:43,204 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,204 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 & G 40
+2024-05-18 13:51:43,204 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,204 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,204 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,204 - logger - INFO -  Gaurav rolled the dice --- [2, 5]
+2024-05-18 13:51:43,204 - logger - INFO - Gaurav scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,204 - logger - INFO - Gaurav moved from 39 to 44
+2024-05-18 13:51:43,204 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,204 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,208 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,208 - logger - INFO - LB SH 63 ST LB 66 67 LT & S 69 70
+2024-05-18 13:51:43,208 - logger - INFO - LB 52 ST 54 55 SH 57 58 & S 59 60
+2024-05-18 13:51:43,208 - logger - INFO - SH 42 43 44 & G 45 LT 47 48 SH 50
+2024-05-18 13:51:43,209 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,209 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,209 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,209 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,210 - logger - INFO -  Sagar rolled the dice --- [2, 5]
+2024-05-18 13:51:43,210 - logger - INFO - Sagar scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,210 - logger - INFO - Sagar moved from 68 to 73
+2024-05-18 13:51:43,211 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,211 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,212 - logger - INFO - LB 72 ST & S 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,212 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,213 - logger - INFO - LB 52 ST 54 55 SH 57 58 & S 59 60
+2024-05-18 13:51:43,213 - logger - INFO - SH 42 43 44 & G 45 LT 47 48 SH 50
+2024-05-18 13:51:43,215 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,215 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,216 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,216 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,217 - logger - INFO -  Shramana rolled the dice --- [5, 2]
+2024-05-18 13:51:43,217 - logger - INFO - Shramana scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,217 - logger - INFO - Shramana moved from 58 to 63
+2024-05-18 13:51:43,218 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,218 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,218 - logger - INFO - LB 72 ST & S 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,218 - logger - INFO - LB SH 63 & S ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,218 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,219 - logger - INFO - SH 42 43 44 & G 45 LT 47 48 SH 50
+2024-05-18 13:51:43,219 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,219 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,220 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,220 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,220 - logger - INFO -  Gaurav rolled the dice --- [2, 3]
+2024-05-18 13:51:43,220 - logger - INFO - Gaurav scored 3 according to 'MAX' strategy
+2024-05-18 13:51:43,220 - logger - INFO - Gaurav moved from 44 to 47
+2024-05-18 13:51:43,220 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,220 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,220 - logger - INFO - LB 72 ST & S 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,220 - logger - INFO - LB SH 63 & S ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,220 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,220 - logger - INFO - SH 42 43 44 45 LT 47 & G 48 SH 50
+2024-05-18 13:51:43,220 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,220 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,220 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,220 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,224 - logger - INFO -  Sagar rolled the dice --- [5, 2]
+2024-05-18 13:51:43,224 - logger - INFO - Sagar scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,224 - logger - INFO - Sagar moved from 73 to 78
+2024-05-18 13:51:43,224 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,225 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,225 - logger - INFO - LB 72 ST 74 ST 76 77 78 & S LT 80
+2024-05-18 13:51:43,225 - logger - INFO - LB SH 63 & S ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,225 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,225 - logger - INFO - SH 42 43 44 45 LT 47 & G 48 SH 50
+2024-05-18 13:51:43,225 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,226 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,226 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,226 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,226 - logger - INFO -  Shramana rolled the dice --- [4, 1]
+2024-05-18 13:51:43,226 - logger - INFO - Shramana scored 4 according to 'MAX' strategy
+2024-05-18 13:51:43,227 - logger - INFO - Shramana moved from 63 to 67
+2024-05-18 13:51:43,227 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,227 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,228 - logger - INFO - LB 72 ST 74 ST 76 77 78 & S LT 80
+2024-05-18 13:51:43,228 - logger - INFO - LB SH 63 ST LB 66 67 & S LT 69 70
+2024-05-18 13:51:43,229 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,229 - logger - INFO - SH 42 43 44 45 LT 47 & G 48 SH 50
+2024-05-18 13:51:43,229 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,229 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,230 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,230 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,231 - logger - INFO -  Gaurav rolled the dice --- [3, 2]
+2024-05-18 13:51:43,232 - logger - INFO - Gaurav scored 3 according to 'MAX' strategy
+2024-05-18 13:51:43,232 - logger - INFO - Gaurav moved from 47 to 50
+2024-05-18 13:51:43,233 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,234 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,234 - logger - INFO - LB 72 ST 74 ST 76 77 78 & S LT 80
+2024-05-18 13:51:43,234 - logger - INFO - LB SH 63 ST LB 66 67 & S LT 69 70
+2024-05-18 13:51:43,234 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,235 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50 & G
+2024-05-18 13:51:43,235 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,235 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,235 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,235 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,235 - logger - INFO -  Sagar rolled the dice --- [4, 6]
+2024-05-18 13:51:43,236 - logger - INFO - Sagar scored 6 according to 'MAX' strategy
+2024-05-18 13:51:43,236 - logger - INFO - Sagar moved from 78 to 84
+2024-05-18 13:51:43,237 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,237 - logger - INFO - LB 82 83 LT & S 85 86 87 SH 89 90
+2024-05-18 13:51:43,237 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,237 - logger - INFO - LB SH 63 ST LB 66 67 & S LT 69 70
+2024-05-18 13:51:43,237 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,237 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50 & G
+2024-05-18 13:51:43,237 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,238 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,238 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,239 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,239 - logger - INFO -  Shramana rolled the dice --- [1, 5]
+2024-05-18 13:51:43,239 - logger - INFO - Shramana scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,239 - logger - INFO - Shramana moved from 67 to 72
+2024-05-18 13:51:43,240 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,240 - logger - INFO - LB 82 83 LT & S 85 86 87 SH 89 90
+2024-05-18 13:51:43,240 - logger - INFO - LB 72 & S ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,240 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,240 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,240 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50 & G
+2024-05-18 13:51:43,240 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,240 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,240 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,240 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,240 - logger - INFO -  Gaurav rolled the dice --- [5, 3]
+2024-05-18 13:51:43,240 - logger - INFO - Gaurav scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,240 - logger - INFO - Gaurav moved from 50 to 55
+2024-05-18 13:51:43,240 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,240 - logger - INFO - LB 82 83 LT & S 85 86 87 SH 89 90
+2024-05-18 13:51:43,240 - logger - INFO - LB 72 & S ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,240 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,240 - logger - INFO - LB 52 ST 54 55 & G SH 57 58 59 60
+2024-05-18 13:51:43,240 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,244 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,244 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,244 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,245 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,245 - logger - INFO -  Sagar rolled the dice --- [6, 2]
+2024-05-18 13:51:43,245 - logger - INFO - Sagar scored 6 according to 'MAX' strategy
+2024-05-18 13:51:43,246 - logger - INFO - Sagar moved from 84 to 90
+2024-05-18 13:51:43,246 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,247 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90 & S
+2024-05-18 13:51:43,247 - logger - INFO - LB 72 & S ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,248 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,248 - logger - INFO - LB 52 ST 54 55 & G SH 57 58 59 60
+2024-05-18 13:51:43,248 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,248 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,248 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,248 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,248 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,248 - logger - INFO -  Shramana rolled the dice --- [6, 2]
+2024-05-18 13:51:43,248 - logger - INFO - Shramana scored 6 according to 'MAX' strategy
+2024-05-18 13:51:43,248 - logger - INFO - Shramana moved from 72 to 78
+2024-05-18 13:51:43,248 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,248 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90 & S
+2024-05-18 13:51:43,248 - logger - INFO - LB 72 ST 74 ST 76 77 78 & S LT 80
+2024-05-18 13:51:43,248 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,248 - logger - INFO - LB 52 ST 54 55 & G SH 57 58 59 60
+2024-05-18 13:51:43,248 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,248 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,248 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,248 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,248 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,248 - logger - INFO -  Gaurav rolled the dice --- [5, 1]
+2024-05-18 13:51:43,248 - logger - INFO - Gaurav scored 5 according to 'MAX' strategy
+2024-05-18 13:51:43,248 - logger - INFO - Gaurav moved from 55 to 60
+2024-05-18 13:51:43,254 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:51:43,254 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90 & S
+2024-05-18 13:51:43,254 - logger - INFO - LB 72 ST 74 ST 76 77 78 & S LT 80
+2024-05-18 13:51:43,254 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,255 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60 & G
+2024-05-18 13:51:43,255 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,255 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,255 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,255 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,256 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,256 - logger - INFO -  Sagar rolled the dice --- [1, 4]
+2024-05-18 13:51:43,256 - logger - INFO - Sagar scored 4 according to 'MAX' strategy
+2024-05-18 13:51:43,256 - logger - INFO - Sagar moved from 90 to 94
+2024-05-18 13:51:43,257 - logger - INFO - LT 92 SH 94 & S SH 96 97 SH 99 LT
+2024-05-18 13:51:43,257 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:51:43,257 - logger - INFO - LB 72 ST 74 ST 76 77 78 & S LT 80
+2024-05-18 13:51:43,257 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,257 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60 & G
+2024-05-18 13:51:43,258 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,258 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,258 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,258 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,258 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,258 - logger - INFO -  Shramana rolled the dice --- [6, 3]
+2024-05-18 13:51:43,258 - logger - INFO - Shramana scored 6 according to 'MAX' strategy
+2024-05-18 13:51:43,258 - logger - INFO - Shramana moved from 78 to 84
+2024-05-18 13:51:43,258 - logger - INFO - LT 92 SH 94 & S SH 96 97 SH 99 LT
+2024-05-18 13:51:43,258 - logger - INFO - LB 82 83 LT & S 85 86 87 SH 89 90
+2024-05-18 13:51:43,258 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,258 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:51:43,258 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60 & G
+2024-05-18 13:51:43,258 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,258 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,258 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,258 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,258 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,258 - logger - INFO -  Gaurav rolled the dice --- [1, 4]
+2024-05-18 13:51:43,258 - logger - INFO - Gaurav scored 4 according to 'MAX' strategy
+2024-05-18 13:51:43,258 - logger - INFO - Gaurav moved from 60 to 64
+2024-05-18 13:51:43,258 - logger - INFO - LT 92 SH 94 & S SH 96 97 SH 99 LT
+2024-05-18 13:51:43,258 - logger - INFO - LB 82 83 LT & S 85 86 87 SH 89 90
+2024-05-18 13:51:43,258 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,258 - logger - INFO - LB SH 63 ST & G LB 66 67 LT 69 70
+2024-05-18 13:51:43,258 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,258 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,258 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,258 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,258 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,258 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,265 - logger - INFO -  Sagar rolled the dice --- [6, 1]
+2024-05-18 13:51:43,265 - logger - INFO - Sagar scored 6 according to 'MAX' strategy
+2024-05-18 13:51:43,266 - logger - INFO - Sagar moved from 94 to 100
+2024-05-18 13:51:43,267 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT & S
+2024-05-18 13:51:43,267 - logger - INFO - LB 82 83 LT & S 85 86 87 SH 89 90
+2024-05-18 13:51:43,267 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:51:43,268 - logger - INFO - LB SH 63 ST & G LB 66 67 LT 69 70
+2024-05-18 13:51:43,268 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:51:43,269 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:51:43,269 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:51:43,269 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:51:43,269 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:51:43,269 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:51:43,269 - logger - INFO - Sagar won the game!
+2024-05-18 13:51:43,270 - logger - INFO - ---------END GAME---------
+2024-05-18 13:52:24,111 - logger - INFO - Welcome to Snake and Ladder Game
+2024-05-18 13:52:24,111 - logger - INFO - Let's start the game :- )
+2024-05-18 13:52:24,111 - logger - INFO - ---------------------------------
+2024-05-18 13:52:24,128 - logger - INFO - The board structure is configured
+2024-05-18 13:52:24,130 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,130 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,130 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,131 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,131 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,131 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,131 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,132 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,132 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,132 - logger - INFO - 01 & S & G & S LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,133 - logger - INFO - ---------START GAME---------
+2024-05-18 13:52:24,133 - logger - INFO -  Shramana rolled the dice --- [2, 5, 1]
+2024-05-18 13:52:24,133 - logger - INFO - Shramana scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,133 - logger - INFO - Shramana moved from 1 to 2
+2024-05-18 13:52:24,134 - logger - INFO - Yeay! Shramana has climbed the ladder at 2! Moving from 2 to 37
+2024-05-18 13:52:24,135 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,135 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,135 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,135 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,136 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,136 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,136 - logger - INFO - 31 LT SH 34 35 36 LT & S 38 39 40
+2024-05-18 13:52:24,136 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,137 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,137 - logger - INFO - 01 & G & S LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,137 - logger - INFO -  Gaurav rolled the dice --- [3, 2, 1]
+2024-05-18 13:52:24,138 - logger - INFO - Gaurav scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,138 - logger - INFO - Gaurav moved from 1 to 2
+2024-05-18 13:52:24,138 - logger - INFO - Yeay! Gaurav has climbed the ladder at 2! Moving from 2 to 37
+2024-05-18 13:52:24,140 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,140 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,140 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,140 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,140 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,141 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,141 - logger - INFO - 31 LT SH 34 35 36 LT & S & G 38 39 40
+2024-05-18 13:52:24,141 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,141 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,141 - logger - INFO - 01 & S LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,142 - logger - INFO -  Sagar rolled the dice --- [3, 1, 1]
+2024-05-18 13:52:24,142 - logger - INFO - Sagar scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,143 - logger - INFO - Sagar moved from 1 to 2
+2024-05-18 13:52:24,143 - logger - INFO - Yeay! Sagar has climbed the ladder at 2! Moving from 2 to 37
+2024-05-18 13:52:24,144 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,144 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,144 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,144 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,145 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,145 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,145 - logger - INFO - 31 LT SH 34 35 36 LT & S & G & S 38 39 40
+2024-05-18 13:52:24,146 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,146 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,146 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,146 - logger - INFO -  Shramana rolled the dice --- [2, 2, 1]
+2024-05-18 13:52:24,146 - logger - INFO - Shramana scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,146 - logger - INFO - Shramana moved from 37 to 38
+2024-05-18 13:52:24,146 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,146 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,146 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,146 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,146 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,146 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,151 - logger - INFO - 31 LT SH 34 35 36 LT & G & S 38 & S 39 40
+2024-05-18 13:52:24,151 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,151 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,151 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,152 - logger - INFO -  Gaurav rolled the dice --- [1, 3, 4]
+2024-05-18 13:52:24,152 - logger - INFO - Gaurav scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,153 - logger - INFO - Gaurav moved from 37 to 38
+2024-05-18 13:52:24,153 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,153 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,154 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,154 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,154 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,154 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,154 - logger - INFO - 31 LT SH 34 35 36 LT & S 38 & S & G 39 40
+2024-05-18 13:52:24,155 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,155 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,155 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,155 - logger - INFO -  Sagar rolled the dice --- [4, 2, 3]
+2024-05-18 13:52:24,155 - logger - INFO - Sagar scored 2 according to 'MIN' strategy
+2024-05-18 13:52:24,155 - logger - INFO - Sagar moved from 37 to 39
+2024-05-18 13:52:24,156 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,156 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,156 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,157 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,157 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,157 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,157 - logger - INFO - 31 LT SH 34 35 36 LT 38 & S & G 39 & S 40
+2024-05-18 13:52:24,157 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,158 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,158 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,158 - logger - INFO -  Shramana rolled the dice --- [5, 1, 6]
+2024-05-18 13:52:24,158 - logger - INFO - Shramana scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,158 - logger - INFO - Shramana moved from 38 to 39
+2024-05-18 13:52:24,159 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,159 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,159 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,159 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,159 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,159 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,160 - logger - INFO - 31 LT SH 34 35 36 LT 38 & G 39 & S & S 40
+2024-05-18 13:52:24,160 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,160 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,160 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,160 - logger - INFO -  Gaurav rolled the dice --- [4, 4, 4]
+2024-05-18 13:52:24,161 - logger - INFO - Gaurav scored 4 according to 'MIN' strategy
+2024-05-18 13:52:24,161 - logger - INFO - Gaurav moved from 38 to 42
+2024-05-18 13:52:24,162 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,162 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,162 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,162 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,165 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,165 - logger - INFO - SH 42 & G 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,165 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 & S & S 40
+2024-05-18 13:52:24,165 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,165 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,166 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,166 - logger - INFO -  Sagar rolled the dice --- [2, 6, 3]
+2024-05-18 13:52:24,166 - logger - INFO - Sagar scored 2 according to 'MIN' strategy
+2024-05-18 13:52:24,166 - logger - INFO - Sagar moved from 39 to 41
+2024-05-18 13:52:24,167 - logger - INFO - Oops! Sagar has bitten by snake at 41! Moving from 41 to 20
+2024-05-18 13:52:24,168 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,168 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,168 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,169 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,169 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,169 - logger - INFO - SH 42 & G 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,169 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 & S 40
+2024-05-18 13:52:24,169 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,169 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST & S
+2024-05-18 13:52:24,170 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,170 - logger - INFO -  Shramana rolled the dice --- [4, 3, 6]
+2024-05-18 13:52:24,170 - logger - INFO - Shramana scored 3 according to 'MIN' strategy
+2024-05-18 13:52:24,170 - logger - INFO - Shramana moved from 39 to 42
+2024-05-18 13:52:24,171 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,171 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,171 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,171 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,171 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,171 - logger - INFO - SH 42 & S & G 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,171 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,173 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,173 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST & S
+2024-05-18 13:52:24,173 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,173 - logger - INFO -  Gaurav rolled the dice --- [3, 4, 6]
+2024-05-18 13:52:24,173 - logger - INFO - Gaurav scored 3 according to 'MIN' strategy
+2024-05-18 13:52:24,174 - logger - INFO - Gaurav moved from 42 to 45
+2024-05-18 13:52:24,174 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,174 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,174 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,175 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,175 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,175 - logger - INFO - SH 42 & S 43 44 45 & G LT 47 48 SH 50
+2024-05-18 13:52:24,175 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,175 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,176 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST & S
+2024-05-18 13:52:24,176 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,176 - logger - INFO -  Sagar rolled the dice --- [5, 4, 3]
+2024-05-18 13:52:24,176 - logger - INFO - Sagar scored 3 according to 'MIN' strategy
+2024-05-18 13:52:24,176 - logger - INFO - Sagar moved from 20 to 23
+2024-05-18 13:52:24,177 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,177 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,177 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,177 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,177 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,177 - logger - INFO - SH 42 & S 43 44 45 & G LT 47 48 SH 50
+2024-05-18 13:52:24,178 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,179 - logger - INFO - 21 22 23 & S 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,179 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,179 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,179 - logger - INFO -  Shramana rolled the dice --- [1, 6, 6]
+2024-05-18 13:52:24,179 - logger - INFO - Shramana scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,179 - logger - INFO - Shramana moved from 42 to 43
+2024-05-18 13:52:24,179 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,179 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,179 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,179 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,179 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,183 - logger - INFO - SH 42 43 & S 44 45 & G LT 47 48 SH 50
+2024-05-18 13:52:24,183 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,183 - logger - INFO - 21 22 23 & S 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,183 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,183 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,184 - logger - INFO -  Gaurav rolled the dice --- [2, 2, 4]
+2024-05-18 13:52:24,184 - logger - INFO - Gaurav scored 2 according to 'MIN' strategy
+2024-05-18 13:52:24,184 - logger - INFO - Gaurav moved from 45 to 47
+2024-05-18 13:52:24,185 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,185 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,185 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,185 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,185 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,186 - logger - INFO - SH 42 43 & S 44 45 LT 47 & G 48 SH 50
+2024-05-18 13:52:24,186 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,186 - logger - INFO - 21 22 23 & S 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,186 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,186 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,186 - logger - INFO -  Sagar rolled the dice --- [4, 3, 6]
+2024-05-18 13:52:24,187 - logger - INFO - Sagar scored 3 according to 'MIN' strategy
+2024-05-18 13:52:24,188 - logger - INFO - Sagar moved from 23 to 26
+2024-05-18 13:52:24,189 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,189 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,189 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,189 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,189 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,189 - logger - INFO - SH 42 43 & S 44 45 LT 47 & G 48 SH 50
+2024-05-18 13:52:24,189 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,189 - logger - INFO - 21 22 23 24 25 26 & S LB 28 29 30
+2024-05-18 13:52:24,189 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,189 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,189 - logger - INFO -  Shramana rolled the dice --- [1, 3, 2]
+2024-05-18 13:52:24,189 - logger - INFO - Shramana scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,189 - logger - INFO - Shramana moved from 43 to 44
+2024-05-18 13:52:24,189 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,189 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,189 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,189 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,189 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,193 - logger - INFO - SH 42 43 44 & S 45 LT 47 & G 48 SH 50
+2024-05-18 13:52:24,193 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,193 - logger - INFO - 21 22 23 24 25 26 & S LB 28 29 30
+2024-05-18 13:52:24,193 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,193 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,193 - logger - INFO -  Gaurav rolled the dice --- [1, 4, 6]
+2024-05-18 13:52:24,193 - logger - INFO - Gaurav scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,194 - logger - INFO - Gaurav moved from 47 to 48
+2024-05-18 13:52:24,194 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,194 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,196 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,196 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,198 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,198 - logger - INFO - SH 42 43 44 & S 45 LT 47 48 & G SH 50
+2024-05-18 13:52:24,199 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,199 - logger - INFO - 21 22 23 24 25 26 & S LB 28 29 30
+2024-05-18 13:52:24,200 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,200 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,200 - logger - INFO -  Sagar rolled the dice --- [5, 6, 2]
+2024-05-18 13:52:24,201 - logger - INFO - Sagar scored 2 according to 'MIN' strategy
+2024-05-18 13:52:24,201 - logger - INFO - Sagar moved from 26 to 28
+2024-05-18 13:52:24,201 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,202 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,202 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,202 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,203 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,203 - logger - INFO - SH 42 43 44 & S 45 LT 47 48 & G SH 50
+2024-05-18 13:52:24,203 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,203 - logger - INFO - 21 22 23 24 25 26 LB 28 & S 29 30
+2024-05-18 13:52:24,203 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,203 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,204 - logger - INFO -  Shramana rolled the dice --- [2, 1, 4]
+2024-05-18 13:52:24,204 - logger - INFO - Shramana scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,204 - logger - INFO - Shramana moved from 44 to 45
+2024-05-18 13:52:24,204 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,204 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,204 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,204 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,204 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,204 - logger - INFO - SH 42 43 44 45 & S LT 47 48 & G SH 50
+2024-05-18 13:52:24,204 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,204 - logger - INFO - 21 22 23 24 25 26 LB 28 & S 29 30
+2024-05-18 13:52:24,204 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,204 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,204 - logger - INFO -  Gaurav rolled the dice --- [1, 1, 2]
+2024-05-18 13:52:24,204 - logger - INFO - Gaurav scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,204 - logger - INFO - Gaurav moved from 48 to 49
+2024-05-18 13:52:24,204 - logger - INFO - Oops! Gaurav has bitten by snake at 49! Moving from 49 to 9
+2024-05-18 13:52:24,208 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,208 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,208 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,209 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,209 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,209 - logger - INFO - SH 42 43 44 45 & S LT 47 48 SH 50
+2024-05-18 13:52:24,209 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,209 - logger - INFO - 21 22 23 24 25 26 LB 28 & S 29 30
+2024-05-18 13:52:24,209 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,210 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST & G LB
+2024-05-18 13:52:24,210 - logger - INFO -  Sagar rolled the dice --- [6, 5, 3]
+2024-05-18 13:52:24,210 - logger - INFO - Sagar scored 3 according to 'MIN' strategy
+2024-05-18 13:52:24,210 - logger - INFO - Sagar moved from 28 to 31
+2024-05-18 13:52:24,211 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,211 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,211 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,211 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,211 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,212 - logger - INFO - SH 42 43 44 45 & S LT 47 48 SH 50
+2024-05-18 13:52:24,212 - logger - INFO - 31 & S LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,212 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,212 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,212 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST & G LB
+2024-05-18 13:52:24,212 - logger - INFO -  Shramana rolled the dice --- [4, 2, 5]
+2024-05-18 13:52:24,212 - logger - INFO - Shramana scored 2 according to 'MIN' strategy
+2024-05-18 13:52:24,212 - logger - INFO - Shramana moved from 45 to 47
+2024-05-18 13:52:24,216 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,216 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,216 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,217 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,217 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,217 - logger - INFO - SH 42 43 44 45 LT 47 & S 48 SH 50
+2024-05-18 13:52:24,217 - logger - INFO - 31 & S LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,218 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,218 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,218 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST & G LB
+2024-05-18 13:52:24,218 - logger - INFO -  Gaurav rolled the dice --- [1, 5, 6]
+2024-05-18 13:52:24,219 - logger - INFO - Gaurav scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,219 - logger - INFO - Gaurav moved from 9 to 10
+2024-05-18 13:52:24,219 - logger - INFO - Yeay! Gaurav has climbed the ladder at 10! Moving from 10 to 32
+2024-05-18 13:52:24,220 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,220 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,220 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,220 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,220 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,220 - logger - INFO - SH 42 43 44 45 LT 47 & S 48 SH 50
+2024-05-18 13:52:24,221 - logger - INFO - 31 & S LT & G SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,221 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,221 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,221 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,223 - logger - INFO -  Sagar rolled the dice --- [6, 1, 2]
+2024-05-18 13:52:24,223 - logger - INFO - Sagar scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,223 - logger - INFO - Sagar moved from 31 to 32
+2024-05-18 13:52:24,224 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,224 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,224 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,224 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,225 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,225 - logger - INFO - SH 42 43 44 45 LT 47 & S 48 SH 50
+2024-05-18 13:52:24,225 - logger - INFO - 31 LT & G & S SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,225 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,225 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,226 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,226 - logger - INFO -  Shramana rolled the dice --- [4, 5, 4]
+2024-05-18 13:52:24,226 - logger - INFO - Shramana scored 4 according to 'MIN' strategy
+2024-05-18 13:52:24,226 - logger - INFO - Shramana moved from 47 to 51
+2024-05-18 13:52:24,226 - logger - INFO - Yeay! Shramana has climbed the ladder at 51! Moving from 51 to 68
+2024-05-18 13:52:24,227 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,227 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,227 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,227 - logger - INFO - LB SH 63 ST LB 66 67 LT & S 69 70
+2024-05-18 13:52:24,227 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,227 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,227 - logger - INFO - 31 LT & G & S SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,227 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,227 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,227 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,227 - logger - INFO -  Gaurav rolled the dice --- [1, 5, 6]
+2024-05-18 13:52:24,227 - logger - INFO - Gaurav scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,227 - logger - INFO - Gaurav moved from 32 to 33
+2024-05-18 13:52:24,227 - logger - INFO - Oops! Gaurav has bitten by snake at 33! Moving from 33 to 6
+2024-05-18 13:52:24,227 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,232 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,232 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,232 - logger - INFO - LB SH 63 ST LB 66 67 LT & S 69 70
+2024-05-18 13:52:24,232 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,232 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,232 - logger - INFO - 31 LT & S SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,232 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,232 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,232 - logger - INFO - 01 LB 03 04 ST ST & G 07 08 ST LB
+2024-05-18 13:52:24,236 - logger - INFO -  Sagar rolled the dice --- [1, 1, 3]
+2024-05-18 13:52:24,236 - logger - INFO - Sagar scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,236 - logger - INFO - Sagar moved from 32 to 33
+2024-05-18 13:52:24,236 - logger - INFO - Oops! Sagar has bitten by snake at 33! Moving from 33 to 6
+2024-05-18 13:52:24,237 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,237 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,237 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,238 - logger - INFO - LB SH 63 ST LB 66 67 LT & S 69 70
+2024-05-18 13:52:24,238 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,239 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,239 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,239 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,239 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,240 - logger - INFO - 01 LB 03 04 ST ST & G & S 07 08 ST LB
+2024-05-18 13:52:24,240 - logger - INFO -  Shramana rolled the dice --- [2, 3, 3]
+2024-05-18 13:52:24,240 - logger - INFO - Shramana scored 2 according to 'MIN' strategy
+2024-05-18 13:52:24,240 - logger - INFO - Shramana moved from 68 to 70
+2024-05-18 13:52:24,241 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,241 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,241 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,241 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70 & S
+2024-05-18 13:52:24,241 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,241 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,241 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,241 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,241 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,241 - logger - INFO - 01 LB 03 04 ST ST & G & S 07 08 ST LB
+2024-05-18 13:52:24,241 - logger - INFO -  Gaurav rolled the dice --- [3, 3, 5]
+2024-05-18 13:52:24,241 - logger - INFO - Gaurav scored 3 according to 'MIN' strategy
+2024-05-18 13:52:24,241 - logger - INFO - Gaurav moved from 6 to 9
+2024-05-18 13:52:24,244 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,244 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,244 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,244 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70 & S
+2024-05-18 13:52:24,245 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,245 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,245 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,246 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,246 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,247 - logger - INFO - 01 LB 03 04 ST ST & S 07 08 ST & G LB
+2024-05-18 13:52:24,247 - logger - INFO -  Sagar rolled the dice --- [2, 1, 4]
+2024-05-18 13:52:24,248 - logger - INFO - Sagar scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,248 - logger - INFO - Sagar moved from 6 to 7
+2024-05-18 13:52:24,248 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,248 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,248 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,248 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70 & S
+2024-05-18 13:52:24,248 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,248 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,248 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,248 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,248 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,248 - logger - INFO - 01 LB 03 04 ST ST 07 & S 08 ST & G LB
+2024-05-18 13:52:24,248 - logger - INFO -  Shramana rolled the dice --- [6, 6, 4]
+2024-05-18 13:52:24,248 - logger - INFO - Shramana scored 4 according to 'MIN' strategy
+2024-05-18 13:52:24,248 - logger - INFO - Shramana moved from 70 to 74
+2024-05-18 13:52:24,248 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,248 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,248 - logger - INFO - LB 72 ST 74 & S ST 76 77 78 LT 80
+2024-05-18 13:52:24,248 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,248 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,248 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,248 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,248 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,248 - logger - INFO - 11 12 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,248 - logger - INFO - 01 LB 03 04 ST ST 07 & S 08 ST & G LB
+2024-05-18 13:52:24,254 - logger - INFO -  Gaurav rolled the dice --- [3, 6, 6]
+2024-05-18 13:52:24,254 - logger - INFO - Gaurav scored 3 according to 'MIN' strategy
+2024-05-18 13:52:24,254 - logger - INFO - Gaurav moved from 9 to 12
+2024-05-18 13:52:24,254 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,254 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,255 - logger - INFO - LB 72 ST 74 & S ST 76 77 78 LT 80
+2024-05-18 13:52:24,255 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,255 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,255 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,255 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,255 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,256 - logger - INFO - 11 12 & G 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,256 - logger - INFO - 01 LB 03 04 ST ST 07 & S 08 ST LB
+2024-05-18 13:52:24,256 - logger - INFO -  Sagar rolled the dice --- [1, 3, 2]
+2024-05-18 13:52:24,256 - logger - INFO - Sagar scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,256 - logger - INFO - Sagar moved from 7 to 8
+2024-05-18 13:52:24,257 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,257 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,257 - logger - INFO - LB 72 ST 74 & S ST 76 77 78 LT 80
+2024-05-18 13:52:24,257 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,258 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,258 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,258 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,258 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,258 - logger - INFO - 11 12 & G 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,258 - logger - INFO - 01 LB 03 04 ST ST 07 08 & S ST LB
+2024-05-18 13:52:24,258 - logger - INFO -  Shramana rolled the dice --- [1, 6, 4]
+2024-05-18 13:52:24,258 - logger - INFO - Shramana scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,258 - logger - INFO - Shramana moved from 74 to 75
+2024-05-18 13:52:24,258 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,258 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,258 - logger - INFO - LB 72 ST 74 ST & S 76 77 78 LT 80
+2024-05-18 13:52:24,258 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,258 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,258 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,261 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,261 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,262 - logger - INFO - 11 12 & G 13 14 15 ST 17 18 19 ST
+2024-05-18 13:52:24,262 - logger - INFO - 01 LB 03 04 ST ST 07 08 & S ST LB
+2024-05-18 13:52:24,262 - logger - INFO -  Gaurav rolled the dice --- [4, 5, 3]
+2024-05-18 13:52:24,262 - logger - INFO - Gaurav scored 3 according to 'MIN' strategy
+2024-05-18 13:52:24,264 - logger - INFO - Gaurav moved from 12 to 15
+2024-05-18 13:52:24,264 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,265 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,265 - logger - INFO - LB 72 ST 74 ST & S 76 77 78 LT 80
+2024-05-18 13:52:24,265 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,265 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,265 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,266 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,266 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,266 - logger - INFO - 11 12 13 14 15 & G ST 17 18 19 ST
+2024-05-18 13:52:24,266 - logger - INFO - 01 LB 03 04 ST ST 07 08 & S ST LB
+2024-05-18 13:52:24,266 - logger - INFO -  Sagar rolled the dice --- [1, 4, 1]
+2024-05-18 13:52:24,266 - logger - INFO - Sagar scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,266 - logger - INFO - Sagar moved from 8 to 9
+2024-05-18 13:52:24,268 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,268 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,268 - logger - INFO - LB 72 ST 74 ST & S 76 77 78 LT 80
+2024-05-18 13:52:24,269 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,269 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,269 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,269 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,269 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,269 - logger - INFO - 11 12 13 14 15 & G ST 17 18 19 ST
+2024-05-18 13:52:24,269 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST & S LB
+2024-05-18 13:52:24,269 - logger - INFO -  Shramana rolled the dice --- [6, 3, 3]
+2024-05-18 13:52:24,269 - logger - INFO - Shramana scored 3 according to 'MIN' strategy
+2024-05-18 13:52:24,269 - logger - INFO - Shramana moved from 75 to 78
+2024-05-18 13:52:24,269 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,269 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,269 - logger - INFO - LB 72 ST 74 ST 76 77 78 & S LT 80
+2024-05-18 13:52:24,269 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,269 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,269 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,269 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,269 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,269 - logger - INFO - 11 12 13 14 15 & G ST 17 18 19 ST
+2024-05-18 13:52:24,269 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST & S LB
+2024-05-18 13:52:24,269 - logger - INFO -  Gaurav rolled the dice --- [5, 2, 3]
+2024-05-18 13:52:24,269 - logger - INFO - Gaurav scored 2 according to 'MIN' strategy
+2024-05-18 13:52:24,269 - logger - INFO - Gaurav moved from 15 to 17
+2024-05-18 13:52:24,274 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,274 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,274 - logger - INFO - LB 72 ST 74 ST 76 77 78 & S LT 80
+2024-05-18 13:52:24,274 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,275 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,275 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,275 - logger - INFO - 31 LT SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,275 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,275 - logger - INFO - 11 12 13 14 15 ST 17 & G 18 19 ST
+2024-05-18 13:52:24,276 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST & S LB
+2024-05-18 13:52:24,276 - logger - INFO -  Sagar rolled the dice --- [1, 1, 2]
+2024-05-18 13:52:24,276 - logger - INFO - Sagar scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,276 - logger - INFO - Sagar moved from 9 to 10
+2024-05-18 13:52:24,276 - logger - INFO - Yeay! Sagar has climbed the ladder at 10! Moving from 10 to 32
+2024-05-18 13:52:24,277 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,277 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,277 - logger - INFO - LB 72 ST 74 ST 76 77 78 & S LT 80
+2024-05-18 13:52:24,277 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,278 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,278 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,278 - logger - INFO - 31 LT & S SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,279 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,279 - logger - INFO - 11 12 13 14 15 ST 17 & G 18 19 ST
+2024-05-18 13:52:24,279 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,279 - logger - INFO -  Shramana rolled the dice --- [2, 5, 1]
+2024-05-18 13:52:24,279 - logger - INFO - Shramana scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,279 - logger - INFO - Shramana moved from 78 to 79
+2024-05-18 13:52:24,282 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,283 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,283 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT & S 80
+2024-05-18 13:52:24,283 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,283 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,284 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,284 - logger - INFO - 31 LT & S SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,284 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,284 - logger - INFO - 11 12 13 14 15 ST 17 & G 18 19 ST
+2024-05-18 13:52:24,284 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,285 - logger - INFO -  Gaurav rolled the dice --- [6, 4, 1]
+2024-05-18 13:52:24,285 - logger - INFO - Gaurav scored 1 according to 'MIN' strategy
+2024-05-18 13:52:24,285 - logger - INFO - Gaurav moved from 17 to 18
+2024-05-18 13:52:24,286 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,286 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,286 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT & S 80
+2024-05-18 13:52:24,286 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,286 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,287 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,287 - logger - INFO - 31 LT & S SH 34 35 36 LT 38 39 40
+2024-05-18 13:52:24,287 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,287 - logger - INFO - 11 12 13 14 15 ST 17 18 & G 19 ST
+2024-05-18 13:52:24,287 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,287 - logger - INFO -  Sagar rolled the dice --- [2, 5, 2]
+2024-05-18 13:52:24,287 - logger - INFO - Sagar scored 2 according to 'MIN' strategy
+2024-05-18 13:52:24,287 - logger - INFO - Sagar moved from 32 to 34
+2024-05-18 13:52:24,289 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT
+2024-05-18 13:52:24,289 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,289 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT & S 80
+2024-05-18 13:52:24,289 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,289 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,289 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,289 - logger - INFO - 31 LT SH 34 & S 35 36 LT 38 39 40
+2024-05-18 13:52:24,290 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,290 - logger - INFO - 11 12 13 14 15 ST 17 18 & G 19 ST
+2024-05-18 13:52:24,290 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,290 - logger - INFO -  Shramana rolled the dice --- [2, 5, 4]
+2024-05-18 13:52:24,290 - logger - INFO - Shramana scored 2 according to 'MIN' strategy
+2024-05-18 13:52:24,291 - logger - INFO - Shramana moved from 79 to 81
+2024-05-18 13:52:24,291 - logger - INFO - Yeay! Shramana has climbed the ladder at 81! Moving from 81 to 100
+2024-05-18 13:52:24,291 - logger - INFO - LT 92 SH 94 SH 96 97 SH 99 LT & S
+2024-05-18 13:52:24,292 - logger - INFO - LB 82 83 LT 85 86 87 SH 89 90
+2024-05-18 13:52:24,292 - logger - INFO - LB 72 ST 74 ST 76 77 78 LT 80
+2024-05-18 13:52:24,292 - logger - INFO - LB SH 63 ST LB 66 67 LT 69 70
+2024-05-18 13:52:24,292 - logger - INFO - LB 52 ST 54 55 SH 57 58 59 60
+2024-05-18 13:52:24,292 - logger - INFO - SH 42 43 44 45 LT 47 48 SH 50
+2024-05-18 13:52:24,292 - logger - INFO - 31 LT SH 34 & S 35 36 LT 38 39 40
+2024-05-18 13:52:24,293 - logger - INFO - 21 22 23 24 25 26 LB 28 29 30
+2024-05-18 13:52:24,293 - logger - INFO - 11 12 13 14 15 ST 17 18 & G 19 ST
+2024-05-18 13:52:24,293 - logger - INFO - 01 LB 03 04 ST ST 07 08 ST LB
+2024-05-18 13:52:24,293 - logger - INFO - Shramana won the game!
+2024-05-18 13:52:24,293 - logger - INFO - ---------END GAME---------

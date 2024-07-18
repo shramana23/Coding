@@ -1,0 +1,13 @@
+{
+    "number_of_players": 2,
+    "board_size": 10,
+    "total_snakes": 9,
+    "snakes": [[62, 5], [33, 6], [49, 9], [88, 16], [41, 20], [56, 53], [98, 64], [93, 73], [95, 75]],
+    "total_laddders": 8,
+    "ladders": [[2, 37], [27, 46], [10, 32], [51, 68], [61, 79], [65, 84], [71, 91], [81, 100]],
+    "number_of_dice": 2,
+    "movement_strategy": "SUM",
+    "player_names": ["Gaurav", "Sagar"],
+    "starting_locations": [1, 1]
+  }
+  

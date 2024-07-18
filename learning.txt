@@ -1,0 +1,8 @@
+- sorted_s = ''.join(sorted(s))
+- res = seen.get(num, 0)
+- hash.setdefault(sorted_s, []).append(s)
+- anagram_map = defaultdict(list)
+- reversed_string = string[::-1]
+- reversed_string = ''.join(reversed(string))
+- nums.sort() ---- sort korte hote pare 
+-- temp[:] kore another list [] e add korte hbe 
